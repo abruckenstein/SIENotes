@@ -1,4 +1,24 @@
 # Chapter 1
+### Types of Issuers
+- Issuer: sells securities to finance operations
+    - e.g. US treasury, Governments, Corporations, Banks
+
+Issuers can issue equity securities(stocks) or debt securities (bonds)
+- Bonds
+    - represent a debt amount (principal)
+    - bond holders are **creditors**
+    - principal is repaid at a later date
+    - interest is paid over the life of the loan/bond
+    - doesn't dilute ownership of organization
+
+- Stocks
+    - Stockholder are **part owners**
+    - May pay dividends
+
+- Broker-Dealer
+    - Broker: matches buyers with sellers and earns a commission
+    - Dealer: person who buys and sells securities
+    - when a firm is a dealer, they may charge a markup or markdown, like a car dealership
 
 ### Departments of a broker-dealer
 - Investment Banking: works directly with issuers to arrange securities offerings, also deal with M&A (Mergers and Acquisitions)
@@ -38,5 +58,42 @@
 ### Market Structure
 - Issuance of securities - Primary Market
 - Trading of securities - Secondary Market
+#### Primary Market
+- A primary market is where the initial purchase of shares happens
+- Regulated by the 1933 Act (Securities Act of 1933)
+- When issued, proceeds are raised by the issuer
 
-##### Primary Market
+#### Secondary Market
+- When an owner of a share wants to trade it, they use a secondary market
+- Regulated by the 1934 Act (Securities Act of 1934)
+- Proceeds are *exchanged* between a buyer and seller, issuer gets none
+- Can trade on an exchange or OTC (Over the Counter)
+- Exchange Market Examples:
+    - NSYE
+    - NASDAQ
+- OTC Market Examples:
+    - OCTBB - Over the Counter Bulletin Board
+    - Pink
+    
+#### Other Markets
+- Third Markets refer to elecronic, internet based trading that doesn't pass through the trading floor, and often accomodates after-hours trading
+- Fourth Market refers to direct institution-to-institution trading that doesn't involve public markets or exchanges, and often uses PTSs (Proprietary Trading Systems)
+- An ECN (Electronic Communication Network) allow anonymous trading by charging a fee and act only in a broker capacity by bringing buyers and sellers together
+- A Dark Pool system provides liquidity for large institutional investors and high-frequency traders, but it doesn’t disseminate quotes. Their purpose is to allow trades with low market impact and low transaction costs
+
+### Clearing and Settlement
+- Clearing (Clear the trade): Buyer and seller agree to the terms of a transaction
+- Settlement: simultaneous payment and delivery process between the two parties 
+
+#### Depository Trust & Clearing Corporation (DTCC) 
+- Security depository, national clearinghouse
+- Is a non-profit, industry-owned corporation, regulated by the SEC
+- Member of the Federal Reserve System
+- Function: automate and centralize the clearing and settlement of trades among its (owners) members
+- Most major financial institutions in the US are members
+- Goal: Eliminate physical securities to improve trading speed and cost
+- Subsidiaries
+    - National Securities Clearing Corporation (NSCC): equity trades
+    - Fixed Income Clearing Corporation (FICC): bond trades
+
+#### Processing the Trade 
